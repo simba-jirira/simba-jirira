@@ -48,15 +48,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simba-jirira&show_icons=true&locale=en&layout=compact" alt="simba-jirira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simba-jirira&" alt="simba-jirira" /></p>
-## 🗂️ Highlight Projects
 
-<a href="https://github.com/simba-jirira/eventmanagementplatform">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=simba-jirira&repo=eventmanagementplatform&theme=radical" />
-</a>
-
-<a href="https://github.com/simba-jirira/eventmanagementplatform">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=simba-jirira&repo=eventmanagementplatform&theme=radical" />
-</a>
 
 <!-- Add more -->
 
