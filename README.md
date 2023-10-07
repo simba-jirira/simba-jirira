@@ -1,6 +1,7 @@
-# 🌟 Welcome to [Simba Jirira]'s GitHub Profile 🌟
 
 <img align='right' src='https://example-image-link.com' width='300"'>
+<h1 align="center">Hi 👋, I'm Simba</h1>
+<h3 align="center">A passionate Web Developer from UK</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=simba-jirira)
 
@@ -10,7 +11,6 @@
 - 🌱 I’m currently learning **Flutter & React**
 - 👯 I’m looking to collaborate on **Open-source projects**
 - 💬 Ask me about **Web Development, Tech Consulting**
-- 😄 Pronouns: **He/Him/His**
 
 ## 🛠️ Languages and Tools:
 
